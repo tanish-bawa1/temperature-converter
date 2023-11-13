@@ -30,6 +30,6 @@ position: fixed;
   bottom: 0;
   min-width: 100%;
   min-height: 100%;
-  background: linear-gradient(rgb(0,0,0,0.7),rgb(0,0,0,0.7)), url(./image/bgimg.png);
+  background: linear-gradient(rgb(0,0,0,0.7),rgb(0,0,0,0.7)), url(./images/bgimg.jpg);
   background-size: cover;
 }
